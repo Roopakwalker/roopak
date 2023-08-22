@@ -1,0 +1,24 @@
+label{
+    display: block;
+    padding: 10px;
+
+}
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+form
+{
+    background-color: blanchedalmond;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10%;
+}
+.btn
+{
+    padding: 10px;
+}
+input[type=submit]{
+    background-color: red;
+    cursor: pointer;
+}
